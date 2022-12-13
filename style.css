@@ -1,0 +1,22 @@
+/* background-color: #A8A7A7;
+background-color: #CC527A;
+background-color: #E8175D;
+background-color: #474747;
+background-color: #363636; */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #363636 ;
+    padding: 20px;
+}
+
+main {
+    background-color: #A8A7A7;
+    height: 400px;
+    max-width:800px;
+    border-radius:5px;
+}
